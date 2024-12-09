@@ -7,7 +7,9 @@ I'm a student at 42Berlin, diving into the world of C and C++ programming. ✨
 
 # 👩‍💻 42 Curriculum Projects
 
-| Circle 0 | Circle 1       | Circle 2     | Circle 3                                     |
+The following are the projects I have completed so far. Currently I am working on the Philosophers Project in Rank3.
+
+| Rank   0 | Rank 1         | Rank 2       | Rank 3         |
 |----------|----------------|--------------|----------------|
 | [libft](./libft)   | get_next_line  | [minitalk](./minitalk)    | Minishell
 |          | Born2BeRoot    | [so_long](./so_long)    | Philosophers
