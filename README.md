@@ -10,6 +10,6 @@ I'm a student at 42Berlin, diving into the world of C and C++ programming.
 | Circle 0 | Circle 1       | Circle 2     | Circle 3                                     |
 |----------|----------------|--------------|----------------|
 | libft    | get_next_line  | Minitalk     | Minishell
-|          | Born2BeRoot    | So_Long      | Philosophers
+|          | Born2BeRoot    | So_Long  https://github.com/0vnnv0/so_long    | Philosophers
 |          | printf         | Push_Swap    |
 
