@@ -1,11 +1,11 @@
-## Welcome to my github! 👋
+# Welcome to my github! 👋
 
 I'm a student at 42Berlin, diving into the world of C and C++ programming. ✨
 
 [![anschmit's 42 stats](https://badge.mediaplus.ma/greenbinary/anschmit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
-# 👩‍💻 42 Curriculum Projects
+## 👩‍💻 42 Curriculum Projects
 
 The following are the projects I have completed so far. Currently I am working on the Philosophers Project in Rank3.
 
