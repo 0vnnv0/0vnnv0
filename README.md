@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**0vnnv0/0vnnv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at 42Berlin, diving into the world of C and C++ programming. 
 
-Here are some ideas to get you started:
+[![anschmit's 42 stats](https://badge.mediaplus.ma/greenbinary/anschmit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🧝 42 Curriculum Projects
+
+| Circle 0 | Circle 1       | Circle 2     | Circle 3                                     |
+|----------|----------------|--------------|----------------|
+| libft    | get_next_line  | Minitalk     | Minishell
+|          | Born2BeRoot    | So_Long      | Philosophers
+|          | printf         | Push_Swap    |
+
