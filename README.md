@@ -13,5 +13,5 @@ The following are the projects I have completed so far. Currently I am working o
 |----------|----------------|--------------|----------------|
 | [libft](https://github.com/0vnnv0/libft)   | [get_next_line](https://github.com/0vnnv0/get_next_line)  | [minitalk](https://github.com/0vnnv0/minitalk)    | Minishell
 |          | Born2BeRoot    | [so_long](https://github.com/0vnnv0/so_long)    | Philosophers
-|          | [printf](https://github.com/0vnnv0/printf)       | [push_swaph](ttps://github.com/0vnnv0/push_swap)   |
+|          | [printf](https://github.com/0vnnv0/printf)       | [push_swap](ttps://github.com/0vnnv0/push_swap)   |
 
