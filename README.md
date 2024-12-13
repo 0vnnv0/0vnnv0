@@ -11,6 +11,6 @@ The following are the projects I have completed so far. Currently I am working o
 | Rank   0 | Rank 1         | Rank 2       | Rank 3         |
 |----------|----------------|--------------|----------------|
 | [libft](https://github.com/0vnnv0/libft)   | [get_next_line](https://github.com/0vnnv0/get_next_line)  | [minitalk](https://github.com/0vnnv0/minitalk)    | [Minishell](https://github.com/0vnnv0/Minishell)
-|          | Born2BeRoot    | [so_long](https://github.com/0vnnv0/so_long)    | Philosophers
-|          | [printf](https://github.com/0vnnv0/printf)       | [push_swap](https://github.com/0vnnv0/push_swap)   |
+|          |[printf](https://github.com/0vnnv0/printf)  | [so_long](https://github.com/0vnnv0/so_long)    | [Philosophers](https://github.com/0vnnv0/Philosophers)
+|          |      | [push_swap](https://github.com/0vnnv0/push_swap)   |
 
