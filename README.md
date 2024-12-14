@@ -8,9 +8,18 @@ Welcome to my github! ✨ I'm a student at 42Berlin, diving into the world of C 
 
 The following are the projects I have completed so far. Currently I am working on the Philosophers Project in Rank3.
 
-| Rank   0 | Rank 1         | Rank 2       | Rank 3         |
-|----------|----------------|--------------|----------------|
-| [libft](https://github.com/0vnnv0/libft)   | [get_next_line](https://github.com/0vnnv0/get_next_line)  | [minitalk](https://github.com/0vnnv0/minitalk)    | [Minishell](https://github.com/0vnnv0/Minishell)
-|          |[printf](https://github.com/0vnnv0/printf)  | [so_long](https://github.com/0vnnv0/so_long)    | [Philosophers](https://github.com/0vnnv0/Philosophers)
-|          |      | [push_swap](https://github.com/0vnnv0/push_swap)   |
+### Rank 0
+[libft](https://github.com/0vnnv0/libft) 
 
+### Rank 1
+[get_next_line](https://github.com/0vnnv0/get_next_line)
+[printf](https://github.com/0vnnv0/printf) 
+
+### Rank 2
+[minitalk](https://github.com/0vnnv0/minitalk)
+[so_long](https://github.com/0vnnv0/so_long) 
+[push_swap](https://github.com/0vnnv0/push_swap) 
+
+### Rank 3
+[Minishell](https://github.com/0vnnv0/Minishell)
+[Philosophers](https://github.com/0vnnv0/Philosophers)
