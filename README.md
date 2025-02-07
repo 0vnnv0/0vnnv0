@@ -23,3 +23,6 @@ The following are the projects I have completed so far. Currently I am working o
 ## Rank 3
 - [Minishell](https://github.com/0vnnv0/Minishell)
 - [Philosophers](https://github.com/0vnnv0/Philosophers)
+
+## Rank 4
+- [NetPractice](https://github.com/0vnnv0/NetPractice)
