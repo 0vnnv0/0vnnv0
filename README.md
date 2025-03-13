@@ -6,7 +6,7 @@ Welcome to my github! ✨ I'm a student at 42Berlin, diving into the world of C 
 
 # 👩‍💻 42 Curriculum Projects
 
-The following are the projects I have completed so far. Currently I am working on the Philosophers Project in Rank3.
+The following are the projects I have completed so far.
 
 ## Rank 0
 - [libft](https://github.com/0vnnv0/libft) 
