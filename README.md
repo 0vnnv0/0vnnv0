@@ -1,6 +1,6 @@
-# Hi, I'm Anna! 👋
+# Hi, welcome to my github! 👋
 
-Welcome to my github! ✨ I'm a student at 42Berlin, diving into the world of C and C++ programming. 
+I'm a student at 42Berlin, diving into the world of C and C++ programming. ✨
 
 [![anschmit's 42 stats](https://badge.mediaplus.ma/binary/anschmit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -33,3 +33,7 @@ The following are the projects I have completed so far.
 - [CPP04](https://github.com/0vnnv0/CPP04)
 - [cub3D](https://github.com/0vnnv0/cub3D)
 
+## Rank 5
+- [CPP05](https://github.com/0vnnv0/CPP05)
+- [CPP06](https://github.com/0vnnv0/CPP06)
+- [CPP07](https://github.com/0vnnv0/CPP07)
