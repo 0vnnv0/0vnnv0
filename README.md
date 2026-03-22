@@ -16,12 +16,12 @@ The following are the projects I have completed so far.
 - [printf](https://github.com/0vnnv0/printf) 
 
 ## Rank 2
-💬 [minitalk](https://github.com/0vnnv0/minitalk) - a basic client-server communication system using UNIX signals
+💬 [minitalk](https://github.com/0vnnv0/minitalk) - a basic client-server communication system using UNIX signals 
 👾 [so_long](https://github.com/0vnnv0/so_long) - a basic 2D game
 - [push_swap](https://github.com/0vnnv0/push_swap) 
 
 ## Rank 3
-🐚 [Minishell](https://github.com/0vnnv0/Minishell)
+🐚 [Minishell](https://github.com/0vnnv0/Minishell) 
 🍝 [Philosophers](https://github.com/0vnnv0/Philosophers)
 
 ## Rank 4
