@@ -9,29 +9,29 @@ I'm a student at 42Berlin, diving into the world of C and C++ programming. ✨
 The following are the projects I have completed so far.
 
 ## Rank 0
-- [libft](https://github.com/0vnnv0/libft) 
+📘 [libft](https://github.com/0vnnv0/libft) 
 
 ## Rank 1
 - [get_next_line](https://github.com/0vnnv0/get_next_line)
 - [printf](https://github.com/0vnnv0/printf) 
 
 ## Rank 2
-- [minitalk](https://github.com/0vnnv0/minitalk)
-- [so_long](https://github.com/0vnnv0/so_long) 
+💬 [minitalk](https://github.com/0vnnv0/minitalk)
+- [so_long](https://github.com/0vnnv0/so_long) - a basic 2D game
 - [push_swap](https://github.com/0vnnv0/push_swap) 
 
 ## Rank 3
-- [Minishell](https://github.com/0vnnv0/Minishell)
-- [Philosophers](https://github.com/0vnnv0/Philosophers)
+🐚 [Minishell](https://github.com/0vnnv0/Minishell)
+🍝 [Philosophers](https://github.com/0vnnv0/Philosophers)
 
 ## Rank 4
-- [NetPractice](https://github.com/0vnnv0/NetPractice)
+📶 [NetPractice](https://github.com/0vnnv0/NetPractice)
 - [CPP00](https://github.com/0vnnv0/CPP00)
 - [CPP01](https://github.com/0vnnv0/CPP01)
 - [CPP02](https://github.com/0vnnv0/CPP02)
 - [CPP03](https://github.com/0vnnv0/CPP03)
 - [CPP04](https://github.com/0vnnv0/CPP04)
-- [cub3D](https://github.com/0vnnv0/cub3D)
+🎮 [cub3D](https://github.com/0vnnv0/cub3D) - a basic 3D game 
 
 ## Rank 5
 - [CPP05](https://github.com/0vnnv0/CPP05)
