@@ -17,8 +17,8 @@ The following are the projects I have completed so far.
 
 ## Rank 2
 💬 [minitalk](https://github.com/0vnnv0/minitalk) - a basic client-server communication system using UNIX signals  
-👾 [so_long](https://github.com/0vnnv0/so_long) - a basic 2D game
-- [push_swap](https://github.com/0vnnv0/push_swap) 
+👾 [so_long](https://github.com/0vnnv0/so_long) - a basic 2D game  
+🔀 [push_swap](https://github.com/0vnnv0/push_swap) - sorting two stacks  
 
 ## Rank 3
 🐚  [Minishell](https://github.com/0vnnv0/Minishell) -  a shell program coded in C  
