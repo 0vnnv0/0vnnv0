@@ -21,7 +21,7 @@ The following are the projects I have completed so far.
 - [push_swap](https://github.com/0vnnv0/push_swap) 
 
 ## Rank 3
-🐚 [Minishell](https://github.com/0vnnv0/Minishell) 
+🐚 [Minishell](https://github.com/0vnnv0/Minishell)  
 🍝 [Philosophers](https://github.com/0vnnv0/Philosophers)
 
 ## Rank 4
