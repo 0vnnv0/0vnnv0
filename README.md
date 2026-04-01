@@ -35,9 +35,9 @@ Student at **42**, working my way towards frontend development.
 | 🖨️ [ft_printf](https://github.com/0vnnv0/printf) | printf reimplemented in C |
 | ⏭️ [get_next_line](https://github.com/0vnnv0/get_next_line) | Reads any file line by line |
 
-## 🔷 C++ Modules (CPP00 – CPP07)
+## 🔷 C++ Modules (CPP00 – CPP09)
 
-[CPP00](https://github.com/0vnnv0/CPP00) · [CPP01](https://github.com/0vnnv0/CPP01) · [CPP02](https://github.com/0vnnv0/CPP02) · [CPP03](https://github.com/0vnnv0/CPP03) · [CPP04](https://github.com/0vnnv0/CPP04) · [CPP05](https://github.com/0vnnv0/CPP05) · [CPP06](https://github.com/0vnnv0/CPP06) · [CPP07](https://github.com/0vnnv0/CPP07)
+[CPP00](https://github.com/0vnnv0/CPP00) · [CPP01](https://github.com/0vnnv0/CPP01) · [CPP02](https://github.com/0vnnv0/CPP02) · [CPP03](https://github.com/0vnnv0/CPP03) · [CPP04](https://github.com/0vnnv0/CPP04) · [CPP05](https://github.com/0vnnv0/CPP05) · [CPP06](https://github.com/0vnnv0/CPP06) · [CPP07](https://github.com/0vnnv0/CPP07) · [CPP08](https://github.com/0vnnv0/CPP08) · [CPP09](https://github.com/0vnnv0/CPP09)
 
 *OOP fundamentals, templates, exceptions, casts*
 
