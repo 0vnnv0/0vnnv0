@@ -1,7 +1,7 @@
 ## hey, i'm Anna 👋
 
-Former HR & Recruiting, now I'd rather write code than job descriptions.
-Student at **42**, working my way towards frontend development.
+Former HR & Recruiting, now I'd rather write code than job descriptions.  
+Studying Software Engineering at **42 Berlin**
 
 > I know how to read people & teams, now I'm learning how to build interfaces that do the same.
 
