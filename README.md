@@ -22,6 +22,7 @@ I am currently studying Software Engineering at **42 Berlin**.
 
 | Project | Description |
 |---|---|
+| 🖥️ [Webserv](https://github.com/0vnnv0/webserv) | HTTP/1.1 server built from scratch in C++ |
 | 🐚 [Minishell](https://github.com/0vnnv0/Minishell) | A fully functional shell written in C |
 | 🍝 [Philosophers](https://github.com/0vnnv0/Philosophers) | Dining philosophers problem with threads |
 | 💬 [minitalk](https://github.com/0vnnv0/minitalk) | Client-server communication via UNIX signals |
