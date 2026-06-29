@@ -1,4 +1,4 @@
-## hey, i'm Anna 👋
+## hey, i'm Anna Elisabeth 👋
 
 Former HR & Recruiting, now I'd rather write code than job descriptions.
 I am currently studying Software Engineering at **42 Berlin**.
