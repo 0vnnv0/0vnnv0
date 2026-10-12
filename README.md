@@ -42,6 +42,8 @@ I am currently studying Software Engineering at **42 Berlin**.
 
 *OOP fundamentals, templates, exceptions, casts*
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,linux,html,css,figma)](https://skillicons.dev)
+
 ---
 
 Interested? Feel free to reach out — always happy to connect, get feedback, or hear about opportunities.
