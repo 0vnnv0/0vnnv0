@@ -44,8 +44,4 @@ I am currently studying Software Engineering at **42 Berlin**.
 
 ---
 
-[![anschmit's 42 stats](https://badge.mediaplus.ma/binary/anschmit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
----
-
 Interested? Feel free to reach out — always happy to connect, get feedback, or hear about opportunities.
