@@ -7,7 +7,7 @@ I am currently studying Software Engineering at **42 Berlin**.
 
 ---
 
-[![anschmit's 42 stats](https://badge.mediaplus.ma/binary/anschmit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,react,docker,js,ts,html,css,figma,)](https://skillicons.dev)
 
 ---
 
@@ -44,7 +44,7 @@ I am currently studying Software Engineering at **42 Berlin**.
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,react,docker,js,ts,html,css,figma,)](https://skillicons.dev)
+[![anschmit's 42 stats](https://badge.mediaplus.ma/binary/anschmit?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
